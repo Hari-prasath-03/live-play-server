@@ -1,0 +1,19 @@
+# Maven output
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# OS junk
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Git
+.git
+.gitignore
+
+# Logs & env
+*.log
+.env
